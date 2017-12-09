@@ -1,7 +1,7 @@
 # #6 Tutorial details student
 Code shown and explained in teachings   
 
-<img src="/img/details.png" width="400px" />
+<img src="/img/details.png" width="600px" />
 
 ### Code added to the controller
 ````java 
