@@ -25,3 +25,4 @@ Code shown and explained in teachings
     <h2 th:text="'Enrollments for ' + ${student.firstName} + ' ' + ${student.lastName}"></h2>
     <p>The content here will come later</p>
 ```` 
+_<div align="right">&copy; clbo@kea.dk</div>_
